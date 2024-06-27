@@ -1,0 +1,32 @@
+{
+  "name": "fakestore-api",
+  "version": "1.0.0",
+  "description": "A fake Store app with API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiplaga/fakestore-api.git"
+  },
+  "keywords": [
+    "Store",
+    "Api",
+    "FakeStore"
+  ],
+  "author": "Guillermo Plaza Gayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiplaga/fakestore-api/issues"
+  },
+  "homepage": "https://github.com/guiplaga/fakestore-api#readme",
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "eslint": "^9.5.0"
+  },
+  "dependencies": {
+    "@types/node": "^20.14.8"
+  }
+}
